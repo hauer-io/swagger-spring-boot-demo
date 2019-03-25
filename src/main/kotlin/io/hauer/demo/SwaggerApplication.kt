@@ -1,4 +1,4 @@
-package io.hauer.spring.demo
+package io.hauer.demo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

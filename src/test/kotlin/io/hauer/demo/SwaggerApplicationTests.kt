@@ -1,4 +1,4 @@
-package io.hauer.spring.demo
+package io.hauer.demo
 
 import org.junit.Test
 import org.junit.runner.RunWith
