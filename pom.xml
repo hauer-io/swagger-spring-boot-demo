@@ -10,14 +10,14 @@
 	</parent>
 	<groupId>io.hauer</groupId>
 	<artifactId>swagger-spring-boot-demo</artifactId>
-	<version>0.3.0-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>swagger-spring-boot-demo</name>
 	<description>Demo project for Swagger Spring Boot Starter</description>
 
 	<properties>
 		<java.version>1.8</java.version>
 		<kotlin.version>1.3.21</kotlin.version>
-		<swagger-spring-boot-starter.version>0.3.0-SNAPSHOT</swagger-spring-boot-starter.version>
+		<swagger-spring-boot-starter.version>1.0.0</swagger-spring-boot-starter.version>
 	</properties>
 
 	<dependencies>
